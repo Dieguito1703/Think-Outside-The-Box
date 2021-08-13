@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/spectrum.wav-68aace23c0ba9bbfb7ba54d4d9a5c6a7.sample"
+
+[deps]
+
+source_file="res://Sounds/spectrum.wav"
+dest_files=[ "res://.import/spectrum.wav-68aace23c0ba9bbfb7ba54d4d9a5c6a7.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=true
+compress/mode=0
